@@ -1,6 +1,5 @@
 # Pasta-Club-Reservation
 
-
 DISABLE_ESLINT_PLUGIN=true
 GENERATE_SOURCEMAP=false
 
