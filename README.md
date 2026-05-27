@@ -1,3 +1,5 @@
-[index.html](https://github.com/user-attachments/files/28319627/index.html)
-[package.json](https://github.com/user-attachments/files/28319628/package.json)
-[postcss.config.js](https://github.com/user-attachments/files/28319629/postcss.config.js)
+[package.json](https://github.com/user-attachments/files/28319895/package.json)
+[postcss.config.js](https://github.com/user-attachments/files/28319896/postcss.config.js)
+[vite.config.js](https://github.com/user-attachments/files/28319899/vite.config.js)
+[vercel.json](https://github.com/user-attachments/files/28319898/vercel.json)
+[tailwind.config.js](https://github.com/user-attachments/files/28319897/tailwind.config.js)
